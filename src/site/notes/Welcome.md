@@ -11,7 +11,7 @@ When you're ready, delete this note and make the vault your own.
 
 This is a list of dataview
 ``` dataview
-list 
+list where dg-publish = true
 ```
 
 
